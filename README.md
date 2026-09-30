@@ -75,4 +75,4 @@
 👨‍💻 ผู้พัฒนา
    - ชื่อ-นามสกุล: นายพงศกร บุษษะ, นางสาวอมินตา รุ่งเรือง  
    - Email: phongsakorn.budsa@gmail.com, aminta.rungruang@gmail.com
-   - GitHub: https://github.com/phongsakronbudsa, https://github.com/amintarungruang/
+   - GitHub: https://github.com/phongsakornbudsa, https://github.com/amintarungruang/
