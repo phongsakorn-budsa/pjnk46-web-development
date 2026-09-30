@@ -52,7 +52,7 @@
 5. **เข้าใช้งานระบบ**
    -เปิดเว็บบราวเซอร์แล้วเข้าไปที่ http://localhost/pbru2
 
-📁 โครงสร้างโปรเจคเบื้องต้น
+📁 โครงสร้างโปรเจกต์เบื้องต้น
    ```
       pbru2/
 ├── css/                # css (Bootstrap)
@@ -75,4 +75,4 @@
 👨‍💻 ผู้พัฒนา
    - ชื่อ-นามสกุล: นายพงศกร บุษษะ, นางสาวอมินตา รุ่งเรือง  
    - Email: phongsakorn.budsa@gmail.com, aminta.rungruang@gmail.com
-   - GitHub: https://github.com/phongsakornbudsa, https://github.com/amintarungruang/
+   - GitHub: https://github.com/phongsakorn-budsa, https://github.com/amintarungruang/
