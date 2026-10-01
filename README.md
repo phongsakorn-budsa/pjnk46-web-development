@@ -5,7 +5,7 @@
 
 *หมายเหตุ: ข้อมูลทั้งหมดในระบบเป็นข้อมูลจำลอง (Mock Data) เพื่อการทดสอบเท่านั้น ไม่มีข้อมูลส่วนบุคคลจริง*
 
-![หน้าแรก Marathon Registration System](pbru2/image/home.png)
+![หน้าแรก Marathon Registration System](pbru2/img/home.png)
 
 
 ## ฟีเจอร์หลัก (Features)
